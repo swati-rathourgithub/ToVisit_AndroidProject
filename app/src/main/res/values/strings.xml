@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">toVisit_SwatiRathour_c0772098_android</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_nearby">Map</string>
+    <string name="nearby_hospitals">Hospitals</string>
+    <string name="nearby_restaurants">Restaurants</string>
+    <string name="cafe">Cafes</string>
+    <string name="museum">Museums</string>
+    <string name="police">Police</string>
+</resources>
